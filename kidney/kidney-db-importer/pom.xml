@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+
+	<name>kidney-db-importer</name>
+	<artifactId>kidney-db-importer</artifactId>
+
+	<parent>
+		<groupId>com.figureit</groupId>
+		<artifactId>kidney</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	<description>
+		Converter for proper data fields interpretation previously converted data from  csv  to mongo db must be proccessed to find the proper elements.
+		The purpose of this is to extract and converts all fields to proper structure of the DB. Will show the places where conflict appears and give possibility to correct it manualy.
+	</description>
+</project>

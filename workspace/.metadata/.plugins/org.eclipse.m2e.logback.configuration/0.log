@@ -1,0 +1,90 @@
+2015-02-01 23:43:43,859 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-db-importer:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\pom.xml.
+2015-02-01 23:43:48,296 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-core:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\pom.xml.
+2015-02-01 23:43:49,328 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-01 23:43:49,328 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-01 23:43:49,328 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-01 23:43:49,328 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-01 23:43:49,531 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-01 23:43:49,531 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-01 23:43:49,531 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-01 23:43:49,531 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-01 23:43:51,031 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-01 23:43:51,031 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-01 23:43:51,046 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-01 23:43:51,046 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 18:33:34,691 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.figureit:kidney:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\pom.xml.
+2015-02-13 18:33:39,737 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-db-importer:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\pom.xml.
+2015-02-13 18:33:39,909 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-core:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\pom.xml.
+2015-02-13 18:33:42,924 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 18:33:42,940 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-13 18:33:42,940 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 18:33:42,940 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 18:33:43,002 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 18:33:43,018 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 18:33:43,018 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 18:33:43,018 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-13 19:11:05,944 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.figureit:kidney:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\pom.xml.
+2015-02-13 19:11:07,382 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-core:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\pom.xml.
+2015-02-13 19:11:07,725 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-db-importer:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\pom.xml.
+2015-02-13 19:11:08,944 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kidney-db-importer/src/main/java
+2015-02-13 19:11:08,944 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kidney-db-importer/src/test/java
+2015-02-13 19:11:09,006 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.figureit:kidney:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\pom.xml.
+2015-02-13 19:11:09,147 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kidney-core/src/main/java
+2015-02-13 19:11:09,147 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kidney-core/src/test/java
+2015-02-13 19:11:09,350 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-core:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\pom.xml.
+2015-02-13 19:11:09,397 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 5 sec
+2015-02-13 19:11:09,725 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-db-importer:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\pom.xml.
+2015-02-13 19:11:10,131 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-core:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\pom.xml.
+2015-02-13 19:11:11,162 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.figureit:kidney-db-importer:0.0.1-SNAPSHOT @ D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\pom.xml.
+2015-02-13 19:11:13,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:11:13,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-13 19:11:13,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:11:13,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 19:11:13,709 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:11:13,709 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 19:11:13,725 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:11:13,725 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-13 19:18:16,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:18:16,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 19:18:16,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:18:16,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-13 19:19:12,435 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:19:12,435 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-13 19:19:12,435 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:19:12,435 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 19:19:12,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:19:12,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 19:19:12,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:19:12,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-13 19:53:44,338 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:53:44,338 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-13 19:53:44,338 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:53:44,338 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 19:53:44,354 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:53:44,354 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 19:53:44,354 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:53:44,354 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-13 19:54:13,617 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:54:13,617 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-13 19:54:13,617 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:54:13,617 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 19:54:13,633 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:54:13,633 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 19:54:13,633 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 19:54:13,633 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-13 20:01:58,821 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:01:58,821 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-13 20:01:58,821 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:01:58,821 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 20:01:58,868 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:01:58,884 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 20:01:58,884 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:01:58,884 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources
+2015-02-13 20:02:30,835 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:02:30,835 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\main\resources
+2015-02-13 20:02:30,850 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:02:30,850 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-core\src\test\resources
+2015-02-13 20:02:30,850 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:02:30,850 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\main\resources
+2015-02-13 20:02:30,850 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-13 20:02:30,850 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROGRAMOWANIE\PROJECTS\kidney\kidney-db-importer\src\test\resources

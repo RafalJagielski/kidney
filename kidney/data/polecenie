@@ -1,0 +1,1 @@
+"mongoimport --headerline --type csv --db test --collection cd --file kidney_to_export.csv"

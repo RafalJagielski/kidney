@@ -1,0 +1,4 @@
+Thu Oct 17 00:35:04.250 creating new connection to:127.0.0.1:27017
+Thu Oct 17 00:35:04.343 BackgroundJob starting: ConnectBG
+Thu Oct 17 00:35:04.359 connected connection!
+connected to: 127.0.0.1
