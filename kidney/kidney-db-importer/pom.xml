@@ -24,6 +24,16 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+  			<version>1.7.10</version>
+		</dependency>
+		<dependency>
+			<groupId>com.figureit</groupId>
+			<artifactId>kidney-core</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<description>
 		Converter for proper data fields interpretation previously converted data from  csv  to mongo db must be proccessed to find the proper elements.
