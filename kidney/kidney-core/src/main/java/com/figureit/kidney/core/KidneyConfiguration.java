@@ -1,43 +1,40 @@
 package com.figureit.kidney.core;
 
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.Properties;
-
+import org.apache.commons.configuration.ConfigurationException;
+import org.apache.commons.configuration.PropertiesConfiguration;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public enum KidneyConfiguration {
+public enum KidneyConfiguration implements DBConfiguration {
 
 	CONFIG();
-	
+
 	private static final Logger log = LoggerFactory.getLogger(KidneyConfiguration.class);
-	private static final  String FILE_NAME = "configuration.properties";
-	private static final Properties configuration;
-	
+	private static final String FILE_NAME = "configuration.properties";
 	private static String dbAddress;
 	private static String dbName;
 
-	
 	private KidneyConfiguration() {
 		//intentionally left blank
 	}
-	
+
 	static {
-		configuration = new Properties();
+		PropertiesConfiguration config = null;
 		try {
-			configuration.load(new FileInputStream(FILE_NAME));
-		} catch (IOException e) {
-			log.error("Can't load configuration file " + FILE_NAME + " .");
+			config = new PropertiesConfiguration(FILE_NAME);
+		} catch (ConfigurationException e) {
+			log.error("error",e);
 		}
-		init();
+		init(config);
 	}
 
-	private static void init(){
-		dbAddress = configuration.getProperty("database");
-		dbName = configuration.getProperty("dbname");
+	private static void init(PropertiesConfiguration config){
+		log.info("Configuration initializing.");
+		dbAddress = (String) config.getProperty("database");
+		dbName = (String) config.getProperty("dbname");
+		log.info("Configuration initialized.");
 	}
-	
+
 	public String getDbAddress() {
 		return dbAddress;
 	}

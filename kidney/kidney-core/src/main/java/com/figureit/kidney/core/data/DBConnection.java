@@ -15,10 +15,12 @@ public class DBConnection {
 	
 	private static MongoClient mongoClient;
 	
+	private static KidneyConfiguration configuration = KidneyConfiguration.CONFIG;
+	
 	static {
 		try {
 			 mongoClient = new MongoClient(
-					KidneyConfiguration.CONFIG.getDbAddress());
+					 configuration.getDbAddress());
 		} catch (UnknownHostException e) {
 			log.error("Cannot connect to database.");
 		}
@@ -28,7 +30,7 @@ public class DBConnection {
 	}
 	
 	public DB getDatabase() {
-		return mongoClient.getDB(KidneyConfiguration.CONFIG.getDbName());
+		return mongoClient.getDB(configuration.getDbName());
 	}
 }
 	
