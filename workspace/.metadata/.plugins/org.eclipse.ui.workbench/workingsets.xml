@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1423851064288_1" label="kidney" name="kidney">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/kidney" type="4"/>
-</workingSet>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422830579593_0" label="Window Working Set" name="Aggregate for window 1422830579593"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1424637614625_0" label="Window Working Set" name="Aggregate for window 1424637614625"/>
 </workingSetManager>

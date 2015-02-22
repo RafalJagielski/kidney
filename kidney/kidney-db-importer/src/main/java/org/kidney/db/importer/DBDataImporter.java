@@ -17,6 +17,7 @@ import com.mongodb.DBObject;
 public class DBDataImporter {
 	/** Logger. */
 	private static final Logger log = LoggerFactory.getLogger(DBDataImporter.class);
+
 	private DB database;
 	
 	public static void main( String[] args ) {
@@ -29,6 +30,7 @@ public class DBDataImporter {
 	private void parse() {
 		DBCollection collection = database.getCollection("test");
 		DBCursor find = collection.find();
+		
 		while (find.hasNext()){
 			DBObject next = find.next();
 			Map map = next.toMap();
