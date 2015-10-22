@@ -1,3 +1,4 @@
+package com.figureit.kidney.core.model;
 import com.figureit.kidney.core.data.DBConnection;
 import com.mongodb.DB;
 import com.mongodb.DBCursor;

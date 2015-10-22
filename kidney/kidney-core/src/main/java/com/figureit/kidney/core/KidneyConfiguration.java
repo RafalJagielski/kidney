@@ -1,7 +1,7 @@
 package com.figureit.kidney.core;
 
-import org.apache.commons.configuration.ConfigurationException;
-import org.apache.commons.configuration.PropertiesConfiguration;
+import java.util.ResourceBundle;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,7 +10,7 @@ public enum KidneyConfiguration implements DBConfiguration {
 	CONFIG();
 
 	private static final Logger log = LoggerFactory.getLogger(KidneyConfiguration.class);
-	private static final String FILE_NAME = "configuration.properties";
+	private static final String FILE_NAME = "configuration";
 	private static String dbAddress;
 	private static String dbName;
 
@@ -19,19 +19,15 @@ public enum KidneyConfiguration implements DBConfiguration {
 	}
 
 	static {
-		PropertiesConfiguration config = null;
-		try {
-			config = new PropertiesConfiguration(FILE_NAME);
-		} catch (ConfigurationException e) {
-			log.error("error",e);
-		}
+		ResourceBundle config = null;
+		config = ResourceBundle.getBundle(FILE_NAME);
 		init(config);
 	}
 
-	private static void init(PropertiesConfiguration config){
+	private static void init(ResourceBundle config){
 		log.info("Configuration initializing.");
-		dbAddress = (String) config.getProperty("database");
-		dbName = (String) config.getProperty("dbname");
+		dbAddress = config.getString("database");
+		dbName = config.getString("dbname");
 		log.info("Configuration initialized.");
 	}
 

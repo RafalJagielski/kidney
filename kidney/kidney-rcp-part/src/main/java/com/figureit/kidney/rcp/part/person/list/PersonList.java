@@ -12,15 +12,19 @@ import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Table;
 import org.eclipse.swt.widgets.Text;
 
+import com.figureit.kidney.core.model.PersonLoader;
+
 public class PersonList {
 	
 	private Text text;
 	private Table personsTable;
-	private Perso
+	@Inject
+	private PersonLoader personLoader;
+	
 	/**	 */
 	@Inject
 	public PersonList() {
-		//TODO Your code here
+		System.err.println("personsLoader" + personLoader);
 	}
 
 	/**
