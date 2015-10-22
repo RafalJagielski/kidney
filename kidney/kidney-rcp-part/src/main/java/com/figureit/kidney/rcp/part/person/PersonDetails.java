@@ -1,7 +1,6 @@
  
 package com.figureit.kidney.rcp.part.person;
 
-import javax.inject.Inject;
 import org.eclipse.e4.ui.di.Focus;
 
 public class PersonDetails {
